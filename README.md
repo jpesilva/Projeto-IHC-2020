@@ -15,4 +15,4 @@ Equipe:
 # 1ª Quinzena de maio
 Codepen - https://codepen.io/jpesilva/pen/bGVxZxW?editors=1010
 
-https://imgur.com/a/2i7Diu7
+https://i.imgur.com/BzvgkwV.png
