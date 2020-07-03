@@ -7,9 +7,9 @@ Professor da Disciplina: Giuliano Bertoti
  
 
 Equipe:
- - João Pedro Esteves da Silva
- - Larissa Aparecida Olimpio
- - Elieser Franco Costa
+ - João Pedro Esteves da Silva 1460481911036
+ - Larissa Aparecida Olimpio 1460481911044
+ - Elieser Franco Costa 1460481911016
 
  
 # 1ª Quinzena de maio
